@@ -551,3 +551,5 @@ def store_info():
 
     flex_message = FlexSendMessage(alt_text='門市資訊', contents=flex_storeInfo)
     return flex_message
+
+# something is happening
